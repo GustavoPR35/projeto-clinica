@@ -15,12 +15,12 @@ Arquivos gerados/usuais
 
 Como compilar (MinGW / g++)
 ```
-g++ -std=c++11 -O2 -o trabalho trabalho.cpp
+g++ -std=c++11 -O2 -o clinica clinica.cpp
 ```
 
 Como compilar (Visual Studio - Developer Command Prompt)
 ```
-cl /EHsc /std:c++14 trabalho.cpp /Fe:trabalho.exe
+cl /EHsc /std:c++14 clinica.cpp /Fe:clinica.exe
 ```
 
 Como executar
